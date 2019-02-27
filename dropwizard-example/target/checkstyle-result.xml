@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="6.18">
+<file name="/home/alatha/Desktop/Dropwiazard/dropwizard-example/src/main/java/com/example/helloworld/resources/HelloWorldResource.java">
+<error line="8" column="8" severity="warning" message="Unused import - io.dropwizard.jersey.params.DateTimeParam." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
 </checkstyle>
